@@ -1,0 +1,128 @@
+{
+    "user": {
+        "type": "OBJECT",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "user.id": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "user.nickname": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "user.title": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "user.accountType": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "user.countryCode": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "user.orientation": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "time": {
+        "type": "INTEGER",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "acl": {
+        "type": "ENUM",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "publicFeed": {
+        "type": "INTEGER",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries": {
+        "type": "ENUM",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[0]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[1]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[2]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[3]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[4]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[5]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[6]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[7]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries[8]": {
+        "type": "STRING",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "topTraderFeed": {
+        "type": "INTEGER",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}
