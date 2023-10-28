@@ -10,14 +10,12 @@ You will need to have the following installed:
 ~~~~~~~~~~~~~
 
 Step - 1. Clone The Project.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    .. code:: sh
 
         git clone https://github.com/otuozeAhmed/data2bots.git
 
 **Step - 2. Change diectory.**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    .. code:: sh
 
