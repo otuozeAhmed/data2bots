@@ -21,22 +21,23 @@ Step - 1. Clone The Project.
 
         cd data2bots
 
-**Step - 3. Run the project. (Windows)**
+**Step - 3a. Run the project. (Windows)**
 
    .. code:: sh
 
         python main.py 
 
-**Step - 3a. Run the project. (Mac or Linux)**
+**Step - 3b. Run the project. (Mac or Linux)**
 
    .. code:: sh
 
         python3 main.py
 
-- if you don't have alias for default "python3"
+- if you don't have an alias for default "python3"
+- if you do, kindly use accordingly throughout the project
 
 
-**Step - 4. Run the tests. (Mac or Linux)**
+**Step - 4. Run the tests.**
 
    .. code:: sh
 
