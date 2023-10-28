@@ -22,14 +22,12 @@ Step - 1. Clone The Project.
         cd data2bots
 
 **Step - 3. Run the project. (Windows)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    .. code:: sh
 
         python main.py 
 
 **Step - 3a. Run the project. (Mac or Linux)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    .. code:: sh
 
@@ -39,7 +37,6 @@ Step - 1. Clone The Project.
 
 
 **Step - 4. Run the tests. (Mac or Linux)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    .. code:: sh
 
