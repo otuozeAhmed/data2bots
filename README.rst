@@ -10,7 +10,7 @@ You will need to have the following installed:
 ~~~~~~~~~~~~~
 
 Step - 1. Clone The Project.
-=============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    .. code:: sh
 
